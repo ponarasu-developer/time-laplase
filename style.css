@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.header {
+  font-size: 30px;
+  font-family: "Itim", cursive;
+  font-style: oblique;
+  padding: 10px;
+  color: darkviolet;
+  background-color: rgb(156, 194, 159);
+}
+.answer {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+#birthyear {
+  padding: 10px 100px;
+}
+.button {
+  padding: 5px 15px;
+  background-color: dodgerblue;
+  font-size: 17px;
+
+  font-family: "Itim", cursive;
+  font-style: oblique;
+}
+.final {
+  display: flex;
+  margin-top: 70px;
+  justify-content: center;
+  font-family: "Itim", cursive;
+  font-style: oblique;
+  padding: 10px;
+}
+.div {
+  padding: 20px;
+}
