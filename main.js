@@ -5,6 +5,7 @@ let days ;
 let hours ;
 let minutes;
 let seconds ;
+let oops ;
 function cal() {
   let input = document.getElementById("birthyear").value;
 if (input > 2020 ) {
